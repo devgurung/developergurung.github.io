@@ -1,16 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Dev Gurung. I have the following qualities:
+Dev Gurung is a technologist who loves learning and exploring new technologies.He has years of experience as a software engineer.
 
-- I can make you cry without saying a single word
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-I am going to write more about it in sometime
+Along with working on Technology, he loves keeping himself fit and healthy by doing rigorous Calisthenics exercises.
