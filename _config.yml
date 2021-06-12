@@ -6,13 +6,17 @@
 # --- Required options --- #
 
 # Name of website
-title: Mind | Body | Money | Tech
+title: Mind - Body - Money - Tech
 
 # Your name to show in the footer
 author: ©Dev Gurung
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Life: "life"
+  Math: "body"
+  Money: "money"
+  Tech: "tech"
   About Me: "aboutme"
 
 # --- Logo --- #
